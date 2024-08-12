@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My projects\\C#\\EF_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|c:\\my projects\\c#\\ef_task\\configurations\\studentcourseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|solutionrelative:configurations\\studentcourseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|c:\\my projects\\c#\\ef_task\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|solutionrelative:entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|c:\\my projects\\c#\\ef_task\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|solutionrelative:entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|c:\\my projects\\c#\\ef_task\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|c:\\my projects\\c#\\ef_task\\context\\dbcontextt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|solutionrelative:context\\dbcontextt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|c:\\my projects\\c#\\ef_task\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|c:\\my projects\\c#\\ef_task\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|solutionrelative:entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|c:\\my projects\\c#\\ef_task\\configurations\\depatrmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|solutionrelative:configurations\\depatrmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|c:\\my projects\\c#\\ef_task\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|solutionrelative:configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|c:\\my projects\\c#\\ef_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0D8C5-BAB2-4333-A682-BD067946B914}|EF_Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentCourseConfigurations.cs",
+              "DocumentMoniker": "C:\\My projects\\C#\\EF_Task\\Configurations\\StudentCourseConfigurations.cs",
+              "RelativeDocumentMoniker": "Configurations\\StudentCourseConfigurations.cs",
+              "ToolTip": "C:\\My projects\\C#\\EF_Task\\Configurations\\StudentCourseConfigurations.cs",
+              "RelativeToolTip": "Configurations\\StudentCourseConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:36:58.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\My projects\\C#\\EF_Task\\Entities\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Entities\\StudentCourse.cs",
+              "ToolTip": "C:\\My projects\\C#\\EF_Task\\Entities\\StudentCourse.cs",
+              "RelativeToolTip": "Entities\\StudentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:35:58.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\My projects\\C#\\EF_Task\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Course.cs",
+              "ToolTip": "C:\\My projects\\C#\\EF_Task\\Entities\\Course.cs",
+              "RelativeToolTip": "Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:32:17.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\My projects\\C#\\EF_Task\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entities\\Student.cs",
+              "ToolTip": "C:\\My projects\\C#\\EF_Task\\Entities\\Student.cs",
+              "RelativeToolTip": "Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:31:09.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContextt.cs",
+              "DocumentMoniker": "C:\\My projects\\C#\\EF_Task\\Context\\DbContextt.cs",
+              "RelativeDocumentMoniker": "Context\\DbContextt.cs",
+              "ToolTip": "C:\\My projects\\C#\\EF_Task\\Context\\DbContextt.cs",
+              "RelativeToolTip": "Context\\DbContextt.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA8wBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:11:38.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\My projects\\C#\\EF_Task\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Employee.cs",
+              "ToolTip": "C:\\My projects\\C#\\EF_Task\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entities\\Employee.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:02:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\My projects\\C#\\EF_Task\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Entities\\Department.cs",
+              "ToolTip": "C:\\My projects\\C#\\EF_Task\\Entities\\Department.cs",
+              "RelativeToolTip": "Entities\\Department.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:01:35.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepatrmentConfiguration.cs",
+              "DocumentMoniker": "C:\\My projects\\C#\\EF_Task\\Configurations\\DepatrmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\DepatrmentConfiguration.cs",
+              "ToolTip": "C:\\My projects\\C#\\EF_Task\\Configurations\\DepatrmentConfiguration.cs",
+              "RelativeToolTip": "Configurations\\DepatrmentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:04:22.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\My projects\\C#\\EF_Task\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\My projects\\C#\\EF_Task\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:59:01.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My projects\\C#\\EF_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\My projects\\C#\\EF_Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:00:45.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
